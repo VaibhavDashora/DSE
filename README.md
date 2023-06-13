@@ -1,2 +1,2 @@
 # DSE
-this basic file of data Science
+this is a basic file of data Science
